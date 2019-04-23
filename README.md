@@ -1,2 +1,2 @@
 # itheima-ssm-course
-Java EE企业级应用开发教程配套代码
+[黑马程序员·Java EE企业级应用开发教程](http://www.ryjiaoyu.com/book/details/8390)配套代码
